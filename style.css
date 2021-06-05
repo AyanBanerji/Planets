@@ -141,7 +141,6 @@ section {
   opacity: 0.2;
   outline: none;
 }
-
 .planet-links .swiper-pagination-bullet-active {
   color: #fff;
   opacity: 1;
@@ -171,31 +170,24 @@ section {
 .swiper-slide:nth-child(1) .slide-img {
   background-image: url("images/mercury.png");
 }
-
 .swiper-slide:nth-child(2) .slide-img {
   background-image: url("images/venus.png");
 }
-
 .swiper-slide:nth-child(3) .slide-img {
   background-image: url("images/earth1.png");
 }
-
 .swiper-slide:nth-child(4) .slide-img {
   background-image: url("images/mars.png");
 }
-
 .swiper-slide:nth-child(5) .slide-img {
   background-image: url("images/jupiter.png");
 }
-
 .swiper-slide:nth-child(6) .slide-img {
   background-image: url("images/saturn.png");
 }
-
 .swiper-slide:nth-child(7) .slide-img {
   background-image: url("images/uranus.png");
 }
-
 .swiper-slide:nth-child(8) .slide-img {
   background-image: url("images/neptune.png");
 }
@@ -261,12 +253,10 @@ section {
   overflow: hidden;
   color: #fff;
 }
-
 .slide-detail-facts div {
   display: flex;
   position: relative;
 }
-
 .slide-detail-facts div h5 {
   margin-right: 20px;
 }
@@ -287,7 +277,6 @@ section {
   font-size: 100px;
   position: relative;
 }
-
 .slide-text h4 span {
   position: absolute;
 }
